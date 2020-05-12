@@ -1,0 +1,6 @@
+numpy
+pandas
+boto3
+python-dotenv
+pymongo
+s3transfer
